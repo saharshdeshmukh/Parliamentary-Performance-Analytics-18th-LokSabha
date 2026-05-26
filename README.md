@@ -41,7 +41,7 @@ Key metrics:
 
 ### 2. Party Intelligence Dashboard
 
-![Party Intelligence](Screenshots/Party Intelligence.png)
+![Party Intelligence](Screenshots/Party_Intelligence.png)
 
 Insights include:
 
@@ -54,7 +54,7 @@ Insights include:
 
 ### 3. State Intelligence Dashboard
 
-![State Intelligence](Screenshots/State Intelligence.png)
+![State Intelligence](Screenshots/State_Intelligence.png)
 
 Insights include:
 
