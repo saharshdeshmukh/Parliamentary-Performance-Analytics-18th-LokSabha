@@ -27,7 +27,7 @@ The dashboard focuses on parliamentary participation through:
 
 ### 1. Parliamentary Overview
 
-![Overview](Screenshots/overview.png)
+![Overview](Screenshots/Overview.png)
 
 Key metrics:
 
@@ -41,7 +41,7 @@ Key metrics:
 
 ### 2. Party Intelligence Dashboard
 
-![Party Intelligence](Screenshots/party_intelligence.png)
+![Party Intelligence](Screenshots/Party Intelligence.png)
 
 Insights include:
 
@@ -54,7 +54,7 @@ Insights include:
 
 ### 3. State Intelligence Dashboard
 
-![State Intelligence](Screenshots/state_intelligence.png)
+![State Intelligence](Screenshots/State Intelligence.png)
 
 Insights include:
 
