@@ -41,7 +41,7 @@ Key metrics:
 
 ### 2. Party Intelligence Dashboard
 
-![Party Intelligence](Screenshots/Party_Intelligence.png)
+![Party Intelligence](Screenshots/Party _Intelligence.png)
 
 Insights include:
 
